@@ -1,2 +1,3 @@
 - grabienie lisci
 - przycinanie galezi
+- zbieranie orzechow
