@@ -1,3 +1,4 @@
+0 zakup grabi
 1 grabienie lisci
 2 przycinanie galezi
 3 zbieranie orzechow
