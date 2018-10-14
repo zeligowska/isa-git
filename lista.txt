@@ -1,2 +1,3 @@
-- grabienie lisci
-- przycinanie galezi
+1 grabienie lisci
+2 przycinanie galezi
+3 zbieranie orzechow
