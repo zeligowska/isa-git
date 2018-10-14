@@ -2,3 +2,4 @@
 1 grabienie lisci
 2 przycinanie galezi
 3 zbieranie orzechow
+4 malowanie plotu
